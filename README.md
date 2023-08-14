@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory data analysis on Tips
 This notebook aims to perform an exploratory analysis of data on tips from the "tips.csv" dataset. The dataset contains information about tips in restaurants, such as the total amount of the bill, the amount of the tip, the gender of the payer, whether or not he/she is a smoker, among other information.
 
